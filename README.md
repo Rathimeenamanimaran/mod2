@@ -2,6 +2,6 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://github.com/Rathimeenamanimaran/mod2.git)
+# To see the output [CLICK HERE](https://Rathimeenamanimaran.github.io/coursera-c-HTML-CSS-and-javascript-for-web-developers/mod2/index.html)
 
 
